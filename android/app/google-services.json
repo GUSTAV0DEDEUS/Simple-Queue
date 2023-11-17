@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144445685259",
+    "project_id": "simplequeue-1010f",
+    "storage_bucket": "simplequeue-1010f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144445685259:android:3453ede2d0a3aa95ad110e",
+        "android_client_info": {
+          "package_name": "com.example.simple_queue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1jqxgUpH54u_QQgMu-QStIk0dZtAZsQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
