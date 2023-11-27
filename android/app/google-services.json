@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "144445685259",
+    "firebase_url": "https://simplequeue-1010f-default-rtdb.firebaseio.com",
     "project_id": "simplequeue-1010f",
     "storage_bucket": "simplequeue-1010f.appspot.com"
   },

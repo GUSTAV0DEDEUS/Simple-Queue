@@ -49,6 +49,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '144445685259',
     projectId: 'simplequeue-1010f',
     authDomain: 'simplequeue-1010f.firebaseapp.com',
+    databaseURL: 'https://simplequeue-1010f-default-rtdb.firebaseio.com',
     storageBucket: 'simplequeue-1010f.appspot.com',
   );
 
@@ -57,6 +58,7 @@ class DefaultFirebaseOptions {
     appId: '1:144445685259:android:3453ede2d0a3aa95ad110e',
     messagingSenderId: '144445685259',
     projectId: 'simplequeue-1010f',
+    databaseURL: 'https://simplequeue-1010f-default-rtdb.firebaseio.com',
     storageBucket: 'simplequeue-1010f.appspot.com',
   );
 
@@ -65,6 +67,7 @@ class DefaultFirebaseOptions {
     appId: '1:144445685259:ios:0ffdc641f82850f7ad110e',
     messagingSenderId: '144445685259',
     projectId: 'simplequeue-1010f',
+    databaseURL: 'https://simplequeue-1010f-default-rtdb.firebaseio.com',
     storageBucket: 'simplequeue-1010f.appspot.com',
     iosBundleId: 'com.example.simpleQueue',
   );
@@ -74,6 +77,7 @@ class DefaultFirebaseOptions {
     appId: '1:144445685259:ios:0c056743e6d07ea7ad110e',
     messagingSenderId: '144445685259',
     projectId: 'simplequeue-1010f',
+    databaseURL: 'https://simplequeue-1010f-default-rtdb.firebaseio.com',
     storageBucket: 'simplequeue-1010f.appspot.com',
     iosBundleId: 'com.example.simpleQueue.RunnerTests',
   );
