@@ -31,7 +31,7 @@ class _OrderEntryScreenState extends State<OrderEntryScreen> {
       appBar: AppBar(
         title: Text('Cadastro de Pedido'),
       ),
-      body: Padding(
+      body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
